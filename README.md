@@ -1,6 +1,6 @@
 - 👋🤠 Howdy, I’m @nmWolfe - Nick! 
 - 👀 I’m interested in life.. of course. But also, new tech. Keen explore creative ventures, and have fun along the way. 
-- 🌱 I’m currently learning HTML, CSS, JS, JAVA and Python. Python is relatively famillair to me, as is HTML and CSS. 
+- 🌱 I’m currently learning HTML, CSS, JS, JAVA and Python. 
 - 💞 I’m looking to collaborate on ANYTHING, and EVERYTHING! Help a n00b out, and get me involved 😅.
 
 <!---
