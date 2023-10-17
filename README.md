@@ -2,8 +2,9 @@
 👋 Howdy 🤠 - I’m Nick! 
 </h1>
 
-## I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
-  
+<h2 align="center">
+I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
+</h2>  
 - Currently working on a full-stack Guitar Market app 🎸
   - https://github.com/nmWolfe/shred-shed-fe
   - https://github.com/nmWolfe/shred-shed-be
@@ -15,7 +16,7 @@
 Tech Stack
 </h1>
 <div align="center">
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" /> <img width="50px" src="https://github.com/vitejs.png?size=48" /> <img width="50px" src="https://github.com/jestjs.png?size=48" /> <img width="50px" src="https://github.com/postmanlabs.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" /> <img width="50px" src="https://github.com/spring-projects.png?size=48" /> <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" />
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" /> <img width="50px" src="https://github.com/vitejs.png?size=48" /> <img width="50px" src="https://github.com/jestjs.png?size=48" /> <img width="50px" src="https://github.com/postmanlabs.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" /> <img width="50px" src="https://github.com/spring-projects.png?size=48" /> <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" />
 </div>  
 
 <div align="center">
