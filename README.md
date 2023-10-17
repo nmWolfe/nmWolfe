@@ -5,6 +5,7 @@
 <h2 align="center">
 I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
 </h2>  
+
 - Currently working on a full-stack Guitar Market app 🎸
   - https://github.com/nmWolfe/shred-shed-fe
   - https://github.com/nmWolfe/shred-shed-be
