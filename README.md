@@ -3,13 +3,16 @@
 </h1>
 
 ## I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
+
 <div align="center">
+  
 - Currently working on a full-stack Guitar Market app 🎸
   - https://github.com/nmWolfe/shred-shed-fe
   - https://github.com/nmWolfe/shred-shed-be
 - Looking to collaborate on new and exciting projects 🤝
 - Driven to learn something new every day 🥳
 - Reach out via [LinkedIn](https://www.linkedin.com/in/n-m-phelan-a02a24276), or thorugh my [portfolio](https://nmWolfe.github.io/portfolio) 🧙🏻‍♂️
+
 </div>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/n-m-phelan-a02a24276) 
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22189641/nicholas-wolfe)
