@@ -25,7 +25,7 @@ Current Stack
 
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmWolfe&show_icons=true&theme=onedark)](https://github.com/nmWolfe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=donut)](https://github.com/nmWolfe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=donut&theme=onedark)](https://github.com/nmWolfe/github-readme-stats)
 
 <!---
 nmWolfe/nmWolfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
