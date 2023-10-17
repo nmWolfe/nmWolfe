@@ -11,12 +11,11 @@
 - Driven to learn something new every day 🥳
 - Reach out via [LinkedIn](https://www.linkedin.com/in/n-m-phelan-a02a24276), or thorugh my [portfolio](https://nmWolfe.github.io/portfolio) 🧙🏻‍♂️
 
-<p align="center">
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/n-m-phelan-a02a24276) 
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22189641/nicholas-wolfe)
 [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/nmWolfe)
 [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/n.m.phelan?si=49b981b3acc14aa9)
-</p>
+
 
 <h1 align="center">
 Current Stack
