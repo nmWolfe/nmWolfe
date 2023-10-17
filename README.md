@@ -1,4 +1,6 @@
-# 👋 Howdy 🤠 - I’m Nick! 
+<h1 align="center">
+👋 Howdy 🤠 - I’m Nick! 
+</h1>
 
 ## I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
 
