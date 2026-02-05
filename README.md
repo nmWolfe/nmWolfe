@@ -1,43 +1,87 @@
-<h1 align="center">
-👋 Howdy 🤠 - I’m Nick! 
-</h1>
+# Nick Wolfe
 
-<h2 align="center">
-I am a full-stack developer, life-enthusiast, tech-head, music-lover and an adventurer.
-</h2>  
+Full-stack developer focused on building clean, maintainable systems with a strong product mindset.  
+I care about clarity, good abstractions, and software that’s pleasant to work on — both for users and for the people maintaining it.
 
-- Currently working on a full-stack Guitar Market app 🎸
-  - https://github.com/nmWolfe/shred-shed-fe
-  - https://github.com/nmWolfe/shred-shed-be
-- Looking to collaborate on new and exciting projects 🤝
-- Driven to learn something new every day 🥳
-- Reach out via [LinkedIn](https://www.linkedin.com/in/n-m-phelan), or thorugh my [portfolio](https://nmWolfe.github.io/portfolio) 🧙🏻‍♂️
+Outside of code, I’m into music, bikes, photography, and projects that sit somewhere between craft and technology.
 
-<h1 align="center">
-Tech Stack
-</h1>
+---
+
+## Current Work
+
+- **AI-integrated sales automation platform**  
+  Building backend systems that integrate LLMs into real-world workflows, with an emphasis on reliability, data integrity, and sensible automation.
+  - Python backend
+  - PostgreSQL + Alembic migrations
+  - Local LLMs via Ollama
+  - Production LLMs via OpenAI & Anthropic
+
+- **Shred Shed** — a full-stack guitar marketplace  
+  - Frontend: https://github.com/nmWolfe/shred-shed-fe  
+  - Backend: https://github.com/nmWolfe/shred-shed-be
+
+---
+
+## Tech Stack
+
+### Languages & Core
 <div align="center">
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" /> <img width="50px" src="https://github.com/vitejs.png?size=48" /> <img width="50px" src="https://github.com/jestjs.png?size=48" /> <img width="50px" src="https://github.com/postmanlabs.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" /> <img width="50px" src="https://github.com/spring-projects.png?size=48" /> <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" />
-</div>  
-
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=donut&theme=onedark)](https://github.com/nmWolfe/github-readme-stats)
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmWolfe&show_icons=true&theme=onedark)](https://github.com/nmWolfe/github-readme-stats) 
-
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 </div>
 
-### Reach Out! 
+### Backend & Data
+<div align="center">
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+</div>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/n-m-phelan) 
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22189641/nicholas-wolfe)
-[<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/nmWolfe)
-[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/n.m.phelan?si=49b981b3acc14aa9)
+### Frontend
+<div align="center">
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img width="48" src="https://github.com/vitejs.png?size=48" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
+</div>
 
+### AI / LLM
+<div align="center">
+  <img width="48" src="https://ollama.com/public/ollama.png" />
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" />
+</div>
 
-<!---
-nmWolfe/nmWolfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tooling & Practices
+<div align="center">
+  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img width="48" src="https://github.com/jestjs.png?size=48" />
+  <img width="48" src="https://github.com/postmanlabs.png?size=48" />
+</div>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=compact&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmWolfe&show_icons=true&theme=onedark" />
+</p>
+
+---
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/n-m-phelan  
+- Portfolio: https://nmWolfe.github.io/portfolio  
+- Stack Overflow: https://stackoverflow.com/users/22189641/nicholas-wolfe  
+- Codewars: https://www.codewars.com/users/nmWolfe
+
+---
+
+_Building useful things. Prefer clarity over cleverness. Skeptical of hype, optimistic about good software._
