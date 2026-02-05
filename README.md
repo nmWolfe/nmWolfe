@@ -1,87 +1,86 @@
-# Nick Wolfe
-
-Full-stack developer focused on building clean, maintainable systems with a strong product mindset.  
-I care about clarity, good abstractions, and software that’s pleasant to work on — both for users and for the people maintaining it.
-
-Outside of code, I’m into music, bikes, photography, and projects that sit somewhere between craft and technology.
-
----
-
-## Current Work
-
-- **AI-integrated sales automation platform**  
-  Building backend systems that integrate LLMs into real-world workflows, with an emphasis on reliability, data integrity, and sensible automation.
-  - Python backend
-  - PostgreSQL + Alembic migrations
-  - Local LLMs via Ollama
-  - Production LLMs via OpenAI & Anthropic
-
-- **Shred Shed** — a full-stack guitar marketplace  
-  - Frontend: https://github.com/nmWolfe/shred-shed-fe  
-  - Backend: https://github.com/nmWolfe/shred-shed-be
-
----
-
-## Tech Stack
-
-### Languages & Core
-<div align="center">
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-</div>
-
-### Backend & Data
-<div align="center">
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
-</div>
-
-### Frontend
-<div align="center">
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img width="48" src="https://github.com/vitejs.png?size=48" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
-</div>
-
-### AI / LLM
-<div align="center">
-  <img width="48" src="https://ollama.com/public/ollama.png" />
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" />
-</div>
-
-### Tooling & Practices
-<div align="center">
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-  <img width="48" src="https://github.com/jestjs.png?size=48" />
-  <img width="48" src="https://github.com/postmanlabs.png?size=48" />
-</div>
-
----
-
-## GitHub Activity
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2D2D2D&center=true&vCenter=true&width=435&lines=N+M+WOLFE" alt="N M Wolfe" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=compact&theme=onedark" />
+  <strong>Full-stack developer. Systems architect. Problem solver.</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/n-m-phelan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nmWolfe.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22189641/nicholas-wolfe">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.codewars.com/users/nmWolfe">
+    <img src="https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header&fontSize=0"/>
+</p>
+
+<h2 align="center">⚡ WHAT I DO ⚡</h2>
+
+<p align="center">
+  <strong>BUILD</strong> → Enterprise systems that scale<br>
+  <strong>DESIGN</strong> → Architectures that evolve with your business<br>
+  <strong>SHIP</strong> → Production-ready solutions that run at 3 AM
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmWolfe&show_icons=true&theme=onedark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header&fontSize=0"/>
 </p>
 
----
+<br>
 
-## Get in Touch
+<h2 align="center">🔧 TECH STACK</h2>
 
-- LinkedIn: https://www.linkedin.com/in/n-m-phelan  
-- Portfolio: https://nmWolfe.github.io/portfolio  
-- Stack Overflow: https://stackoverflow.com/users/22189641/nicholas-wolfe  
-- Codewars: https://www.codewars.com/users/nmWolfe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,postgres,aws&theme=dark" alt="Tech Stack"/>
+</p>
 
----
+<br>
 
-_Building useful things. Prefer clarity over cleverness. Skeptical of hype, optimistic about good software._
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header&fontSize=0"/>
+</p>
+
+<h2 align="center">📊 STATS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmWolfe&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=2d2d2d&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmWolfe&theme=dark&hide_border=true&background=0d1117&stroke=2d2d2d&ring=2d2d2d&fire=2d2d2d&currStreakLabel=ffffff" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmWolfe&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=2&section=header&fontSize=0"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nmWolfe/nmWolfe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <em>Clean code. Strong systems. Real impact.</em>
+</p>
